@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel ./src/js/**/*.js --dist-dir ./dist --no-source-maps",
+    "start": "npm run dev"
   },
   "keywords": [],
   "author": "",
