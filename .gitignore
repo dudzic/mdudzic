@@ -1,6 +1,7 @@
-uploads
 wp-config.php
 twenty*
+
+wp-content/uploads
 
 .cache
 .parcel-cache
