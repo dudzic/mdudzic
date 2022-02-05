@@ -1,0 +1,8 @@
+uploads
+wp-config.php
+twenty*
+
+.cache
+.parcel-cache
+dist
+node_modules
