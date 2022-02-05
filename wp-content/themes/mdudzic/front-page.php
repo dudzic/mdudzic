@@ -4,7 +4,7 @@ get_header();
 ?>
 
 <div class="site-wrapper frontpage">
-	<h1>Frontpage</h1>
+	<h1>Frontpage mdudzic.com</h1>
 </div>
 
 <?php get_footer(); ?>
